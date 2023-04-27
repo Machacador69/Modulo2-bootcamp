@@ -1,0 +1,13 @@
+Realizar un análisis grupal sobre las siguientes páginas:
+	a. https://intermedicadelpuerto.com/
+	b. http://r2integratedsolutions.com/
+	c. https://bissumayoreo.com/
+
+a. Los errores que pude ver en esta página, es que en un momento se le acaban las imágenes al slider
+   Otro error que pude observar es que en ciertas partes las letras no se aprecian bien por el fondo
+   No hay un call to action a simple viste.
+b. Nuevamente no se distiguen las letras del fondo
+   cuando le das click a algún elemento te la liga aparece con el .html al final
+
+c. no hay un call to action claro.
+   me parece muy sobrecargada de elementos.
